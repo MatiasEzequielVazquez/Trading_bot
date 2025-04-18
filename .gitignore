@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__
+
+# Virtual Environment
+venv/
+
+# Configuration files
+.env
+
+# Log files
+*.log
+
+# Other generated system files
+*.DS_Store  # Para macOS
+Thumbs.db   # Para Windows
