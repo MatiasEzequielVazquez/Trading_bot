@@ -5,6 +5,7 @@ import time
 client = get_client()
 
 def run_bot():
+    print("Execution started...")
     while True:
         try:
             # Get account balance
