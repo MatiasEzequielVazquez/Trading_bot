@@ -12,7 +12,7 @@ This is an automated trading bot built with Python using the Binance API. It exe
 
 ## 🚀 Tech Stack
 
-- Python 3.x
+- Python 3.13
 - `python-binance`
 - `dotenv` for API key management
 - `logging`
